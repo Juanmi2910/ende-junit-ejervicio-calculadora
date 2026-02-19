@@ -7,7 +7,11 @@ Observa que este proyecto no tiene ninguna clase con el método `main`, no nos h
 Haz un fork de este proyecto en tu repositorio de Github y contesta a las siguientes preguntas:
 
 1. ¿Qué sentido puede tener este proyecto y para que lo podrías usar?
+Este proyecto es para la creacion de una calculadora simple que sume, reste, multiplique y divida dos numeros.
+
 2. Revisa las pruebas de la suma y comenta lo que te parezca de interés
+Las pruebas de la suma comprueba primero si suma bien dos positivos, la segunda prueba se asegura que no salga un resultado differente al esperado, y la tercera comprueba varias sumas distintas.
+
 3. Realiza un estudio de caja negra de la división e implementa las pruebas en junit: Se realizará en markdown.
 
 
