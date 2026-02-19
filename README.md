@@ -15,12 +15,12 @@ Las pruebas de la suma comprueba primero si suma bien dos positivos, la segunda 
 3. Realiza un estudio de caja negra de la división e implementa las pruebas en junit: Se realizará en markdown.
 
 Las pruebas de una caja negra en este caso seria comprobar:
- si positivo(a) entre positivo(b) = resutado correcto positivo
- si positivo(b) entre positivo(a) = resutado distinto correcto positivo
- si negativo(a) entre positivo(b) = resutado correcto negativo
- si negativo(a) entre negativo(b) = resutado correcto positivo
- si 0 entre positivo = 0
- si 0 entre negativo = 0
+- si positivo(a) entre positivo(b) = resutado correcto positivo
+- si positivo(b) entre positivo(a) = resutado distinto correcto positivo
+- si negativo(a) entre positivo(b) = resutado correcto negativo
+- si negativo(a) entre negativo(b) = resutado correcto positivo
+- si 0 entre positivo = 0
+- si 0 entre negativo = 0
 
 ``` 
     @Test
